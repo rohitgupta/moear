@@ -1,0 +1,8 @@
+{
+  "name": "Sample Problem",
+  "description": "Sample Problem Description",
+  "version": "0.0.1-SNAPSHOT",
+  "author": "Vehbi Sinan Tunalioglu",
+  "algorithm": "GDE3",
+  "generations": 1000
+}
